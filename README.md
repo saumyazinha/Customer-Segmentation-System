@@ -11,7 +11,7 @@ The project utilizes the K-means clustering algorithm, a popular unsupervised ma
 ## Files
 
 * `Customer_Segmentation.ipynb`: Jupyter Notebook containing the complete analysis, including data loading, preprocessing, K-means clustering, and results visualization.
-* `data/Mall_Customers.csv`: The customer dataset used for the analysis.
+* `data/E-commerce Customer Behavior`: The customer dataset used for the analysis.
 
 ## Dependencies
 
